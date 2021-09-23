@@ -2,24 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33928" started-at="2021-09-23T16:03:48 IST" finished-at="2021-09-23T16:04:22 IST">
+  <suite name="Default suite" duration-ms="16496" started-at="2021-09-23T16:29:59 IST" finished-at="2021-09-23T16:30:15 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33928" started-at="2021-09-23T16:03:48 IST" finished-at="2021-09-23T16:04:22 IST">
-      <class name="basics.ButtonEG">
-        <test-method status="PASS" signature="OpenBrow()[pri:0, instance:basics.ButtonEG@6e6c3152]" name="OpenBrow" is-config="true" duration-ms="32478" started-at="2021-09-23T16:03:48 IST" finished-at="2021-09-23T16:04:21 IST">
+    <test name="Default test" duration-ms="16496" started-at="2021-09-23T16:29:59 IST" finished-at="2021-09-23T16:30:15 IST">
+      <class name="basics.DropDownEg">
+        <test-method status="PASS" signature="OpenBrow()[pri:0, instance:basics.DropDownEg@6ebc05a6]" name="OpenBrow" is-config="true" duration-ms="15637" started-at="2021-09-23T16:29:59 IST" finished-at="2021-09-23T16:30:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrow -->
-        <test-method status="PASS" signature="ExploreBtn()[pri:0, instance:basics.ButtonEG@6e6c3152]" name="ExploreBtn" duration-ms="395" started-at="2021-09-23T16:04:21 IST" finished-at="2021-09-23T16:04:21 IST">
+        <test-method status="PASS" signature="ExploreDropDown()[pri:0, instance:basics.DropDownEg@6ebc05a6]" name="ExploreDropDown" duration-ms="691" started-at="2021-09-23T16:30:14 IST" finished-at="2021-09-23T16:30:15 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ExploreBtn -->
-        <test-method status="PASS" signature="CloseBrow()[pri:0, instance:basics.ButtonEG@6e6c3152]" name="CloseBrow" is-config="true" duration-ms="936" started-at="2021-09-23T16:04:21 IST" finished-at="2021-09-23T16:04:22 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CloseBrow -->
-      </class> <!-- basics.ButtonEG -->
+        </test-method> <!-- ExploreDropDown -->
+      </class> <!-- basics.DropDownEg -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

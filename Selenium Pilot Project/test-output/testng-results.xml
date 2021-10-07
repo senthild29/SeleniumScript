@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16176" started-at="2021-09-23T16:54:40 IST" finished-at="2021-09-23T16:54:56 IST">
+  <suite name="Default suite" duration-ms="19393" started-at="2021-10-07T10:42:13 IST" finished-at="2021-10-07T10:42:32 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16176" started-at="2021-09-23T16:54:40 IST" finished-at="2021-09-23T16:54:56 IST">
-      <class name="basics.DropDownEg">
-        <test-method status="PASS" signature="OpenBrow()[pri:0, instance:basics.DropDownEg@6ebc05a6]" name="OpenBrow" is-config="true" duration-ms="15040" started-at="2021-09-23T16:54:40 IST" finished-at="2021-09-23T16:54:55 IST">
+    <test name="Default test" duration-ms="19393" started-at="2021-10-07T10:42:13 IST" finished-at="2021-10-07T10:42:32 IST">
+      <class name="basics.CheckBoxEg">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:basics.CheckBoxEg@6ebc05a6]" name="OpenBrowser" is-config="true" duration-ms="18527" started-at="2021-10-07T10:42:13 IST" finished-at="2021-10-07T10:42:31 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- OpenBrow -->
-        <test-method status="PASS" signature="ExploreDropDown()[pri:0, instance:basics.DropDownEg@6ebc05a6]" name="ExploreDropDown" duration-ms="1082" started-at="2021-09-23T16:54:55 IST" finished-at="2021-09-23T16:54:56 IST">
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="CheckBox()[pri:0, instance:basics.CheckBoxEg@6ebc05a6]" name="CheckBox" duration-ms="785" started-at="2021-10-07T10:42:31 IST" finished-at="2021-10-07T10:42:32 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ExploreDropDown -->
-      </class> <!-- basics.DropDownEg -->
+        </test-method> <!-- CheckBox -->
+      </class> <!-- basics.CheckBoxEg -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basics.EditBtnEg">
+      <class name="basics.HyperLinksEg">
         <methods>
-          <include name="ExploreEditBtn"/>
-          <include name="CloseBrow"/>
-          <include name="OpenBrow"/>
+          <include name="Links"/>
+          <include name="OpenBrowser"/>
         </methods>
-      </class> <!-- basics.EditBtnEg -->
+      </class> <!-- basics.HyperLinksEg -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

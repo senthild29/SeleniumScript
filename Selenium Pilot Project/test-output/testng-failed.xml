@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basics.HyperLinksEg">
+      <class name="basics.AlertBoxEg">
         <methods>
-          <include name="Links"/>
-          <include name="OpenBrowser"/>
+          <include name="OpenBrow"/>
+          <include name="Alert"/>
         </methods>
-      </class> <!-- basics.HyperLinksEg -->
+      </class> <!-- basics.AlertBoxEg -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
